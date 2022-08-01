@@ -1,4 +1,4 @@
-# Minitalk
+# Minitalk 💬
 
 [![CodeFactor](https://www.codefactor.io/repository/github/the-friendly-ghost/minitalk/badge)](https://www.codefactor.io/repository/github/the-friendly-ghost/minitalk)
 
